@@ -1,3 +1,0 @@
-email, subject, message
-x@x.com, x, xxxxx
-x1@gmail.com, ahfdsa, asdfdkasf
